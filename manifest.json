@@ -1,0 +1,12 @@
+{
+  "name": "dragon-flt",
+  "description": "Dragon Fly XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "dragon-fly.glb",
+  "components": [
+    {
+      "type": "pet",
+      "flyAnimation": "Flight"
+    }
+  ]
+}
